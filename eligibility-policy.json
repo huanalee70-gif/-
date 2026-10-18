@@ -1,0 +1,238 @@
+{
+  "README.md": {
+    "bytes": 3040,
+    "sha256": "ed8083c0fd7ff18cb2979db54263820afb1ae6b9e42d52460c460d28acb18d2c"
+  },
+  "dist/eligibility-policy.json": {
+    "bytes": 5249,
+    "sha256": "0c3c093d57dde80803b773cdfc9aef7a5a9bad9e248346df7a1d170c39fbea6e"
+  },
+  "dist/images/citadel-logo.svg": {
+    "bytes": 1084,
+    "sha256": "0dc3a1c941c405b2135066322111fd0748f5aa2e07679806df0a0788c94c1568"
+  },
+  "dist/images/company-logo-original.jpeg": {
+    "bytes": 14229,
+    "sha256": "1c86067250cf26ca2fb5b2c216669212881c98782b0620d40be90d4dfe4aa67f"
+  },
+  "dist/images/finance-hero-v3.jpg": {
+    "bytes": 418857,
+    "sha256": "81a24b69cedfbe41998c57705273ffa29d6303348be7318a8f171651aba8b8d9"
+  },
+  "dist/images/kenneth-griffin-v3.png": {
+    "bytes": 992991,
+    "sha256": "7027857d2235097849aa727e2dc8572e301153df3cf407b8e058beef41782c37"
+  },
+  "dist/images/original-0.png": {
+    "bytes": 433832,
+    "sha256": "624ad6fe80e401484be8bb00f5e3a0003e913cd72e031703f38debd80b557f93"
+  },
+  "dist/images/original-1.jpeg": {
+    "bytes": 44092,
+    "sha256": "6be59df63fcc3ac23d277d0767fda48d4e661b8427a1d42c90420c63e1f72687"
+  },
+  "dist/images/original-10.jpeg": {
+    "bytes": 54040,
+    "sha256": "104b8031ca559ca604d24196d2eee7d6d9ba865452313b70e3a3634e4581caa7"
+  },
+  "dist/images/original-11.jpg": {
+    "bytes": 44720,
+    "sha256": "8b071f2c57cb6d3ccfbbec031269172b754f3618a5c14da775ebb3e3c002470d"
+  },
+  "dist/images/original-2.jpeg": {
+    "bytes": 34136,
+    "sha256": "fc728c424122934a3cf939f37d5b05a21cf55fc14ccac656889531d12a656d08"
+  },
+  "dist/images/original-3.jpeg": {
+    "bytes": 19184,
+    "sha256": "34f326a95950fd8b3b777e7b64cfde8304aced067d5fc1435c159722337e8bc8"
+  },
+  "dist/images/original-4.jpeg": {
+    "bytes": 38431,
+    "sha256": "cee20fe8ebe9486d3e74a2a84394fbcb3789aa72e4922c52dca8bee58b1d501f"
+  },
+  "dist/images/original-5.jpeg": {
+    "bytes": 55915,
+    "sha256": "86d1cbaeb05b2c23e947ebedcd9f01b280cda55042abafeb7b2074462e0cbc85"
+  },
+  "dist/images/original-6.jpeg": {
+    "bytes": 19529,
+    "sha256": "2353a28d1a1af7f7ca4c25500fe22eefeadaf1876533e81edbeb4aab704ced26"
+  },
+  "dist/images/original-7.jpeg": {
+    "bytes": 23893,
+    "sha256": "840968b074e41037edfecb037b609626a0e782941a16018fd0b0ffccb65f76fd"
+  },
+  "dist/images/original-8.jpeg": {
+    "bytes": 35800,
+    "sha256": "39b4ea76f9bf7376e394aae5368a7be5fea61f75e6c4aa14b3a198260b2bba21"
+  },
+  "dist/images/original-9.jpeg": {
+    "bytes": 69921,
+    "sha256": "ac7c346754d21616a5207e82c8bac771c0881780db85d5ddf2c56ac4a2e5730a"
+  },
+  "dist/images/team-amanda-rubin.png": {
+    "bytes": 2866924,
+    "sha256": "2f6ed408f7c5ccede41702ecc9c56c9790cf93b4a0f5bbefcddb141fe39ce4dd"
+  },
+  "dist/images/team-andrew-janian.png": {
+    "bytes": 5664914,
+    "sha256": "e32cae746a417bf1f42a2cd2e4da57351aabda75f44be1a81b82a81d3080d443"
+  },
+  "dist/images/team-gerald-beeson.png": {
+    "bytes": 1019039,
+    "sha256": "8752ca94531f99ec35b5fe5b4d234fe2086ce9870c19156d250f2c41a76dc478"
+  },
+  "dist/images/team-kenneth-griffin.png": {
+    "bytes": 164068,
+    "sha256": "24b857f197e2a6fa53f6a190eb563ad080a541cfc79c79be0a3fec39b354a1c9"
+  },
+  "dist/images/team-larry-fink.png": {
+    "bytes": 3232466,
+    "sha256": "32d0ca581f748138d2b55840ee85bf32c75187f0d2f8ba6b7feb3f5eed11a70a"
+  },
+  "dist/images/team-shawn-fagan.png": {
+    "bytes": 2724474,
+    "sha256": "006f4bff0e33aec91390da1465694ef36c1d4926253c169bf7fab40483e5dbde"
+  },
+  "dist/images/team-tom-lee.png": {
+    "bytes": 2427028,
+    "sha256": "605c2cd31e7d5118f93e4132ec1099c4ee208217b199a5aeac90ee30bb490034"
+  },
+  "dist/index.html": {
+    "bytes": 81601,
+    "sha256": "0fa679b86fdeb28878baf2301c40dedff51099dc4c227ce67dea47b70fb8e7b5"
+  },
+  "dist/partners.json": {
+    "bytes": 5285,
+    "sha256": "f8937b10decf2312350c7068be1d275e90b3691dad3a7605f066c691a4b2676c"
+  },
+  "dist/profiles.json": {
+    "bytes": 9183,
+    "sha256": "38e0f89a5b55d4b944dc8c2a8737914733f0b747b809f68535f87bc638dcc985"
+  },
+  "package.json": {
+    "bytes": 237,
+    "sha256": "f7decd8a4195ce386d13bf695ecfe3f45c85c1ddc9f6ce4ff0225c881e0388b4"
+  },
+  "public/eligibility-policy.json": {
+    "bytes": 5249,
+    "sha256": "0c3c093d57dde80803b773cdfc9aef7a5a9bad9e248346df7a1d170c39fbea6e"
+  },
+  "public/images/citadel-logo.svg": {
+    "bytes": 1084,
+    "sha256": "0dc3a1c941c405b2135066322111fd0748f5aa2e07679806df0a0788c94c1568"
+  },
+  "public/images/company-logo-original.jpeg": {
+    "bytes": 14229,
+    "sha256": "1c86067250cf26ca2fb5b2c216669212881c98782b0620d40be90d4dfe4aa67f"
+  },
+  "public/images/finance-hero-v3.jpg": {
+    "bytes": 418857,
+    "sha256": "81a24b69cedfbe41998c57705273ffa29d6303348be7318a8f171651aba8b8d9"
+  },
+  "public/images/kenneth-griffin-v3.png": {
+    "bytes": 992991,
+    "sha256": "7027857d2235097849aa727e2dc8572e301153df3cf407b8e058beef41782c37"
+  },
+  "public/images/original-0.png": {
+    "bytes": 433832,
+    "sha256": "624ad6fe80e401484be8bb00f5e3a0003e913cd72e031703f38debd80b557f93"
+  },
+  "public/images/original-1.jpeg": {
+    "bytes": 44092,
+    "sha256": "6be59df63fcc3ac23d277d0767fda48d4e661b8427a1d42c90420c63e1f72687"
+  },
+  "public/images/original-10.jpeg": {
+    "bytes": 54040,
+    "sha256": "104b8031ca559ca604d24196d2eee7d6d9ba865452313b70e3a3634e4581caa7"
+  },
+  "public/images/original-11.jpg": {
+    "bytes": 44720,
+    "sha256": "8b071f2c57cb6d3ccfbbec031269172b754f3618a5c14da775ebb3e3c002470d"
+  },
+  "public/images/original-2.jpeg": {
+    "bytes": 34136,
+    "sha256": "fc728c424122934a3cf939f37d5b05a21cf55fc14ccac656889531d12a656d08"
+  },
+  "public/images/original-3.jpeg": {
+    "bytes": 19184,
+    "sha256": "34f326a95950fd8b3b777e7b64cfde8304aced067d5fc1435c159722337e8bc8"
+  },
+  "public/images/original-4.jpeg": {
+    "bytes": 38431,
+    "sha256": "cee20fe8ebe9486d3e74a2a84394fbcb3789aa72e4922c52dca8bee58b1d501f"
+  },
+  "public/images/original-5.jpeg": {
+    "bytes": 55915,
+    "sha256": "86d1cbaeb05b2c23e947ebedcd9f01b280cda55042abafeb7b2074462e0cbc85"
+  },
+  "public/images/original-6.jpeg": {
+    "bytes": 19529,
+    "sha256": "2353a28d1a1af7f7ca4c25500fe22eefeadaf1876533e81edbeb4aab704ced26"
+  },
+  "public/images/original-7.jpeg": {
+    "bytes": 23893,
+    "sha256": "840968b074e41037edfecb037b609626a0e782941a16018fd0b0ffccb65f76fd"
+  },
+  "public/images/original-8.jpeg": {
+    "bytes": 35800,
+    "sha256": "39b4ea76f9bf7376e394aae5368a7be5fea61f75e6c4aa14b3a198260b2bba21"
+  },
+  "public/images/original-9.jpeg": {
+    "bytes": 69921,
+    "sha256": "ac7c346754d21616a5207e82c8bac771c0881780db85d5ddf2c56ac4a2e5730a"
+  },
+  "public/images/team-amanda-rubin.png": {
+    "bytes": 2866924,
+    "sha256": "2f6ed408f7c5ccede41702ecc9c56c9790cf93b4a0f5bbefcddb141fe39ce4dd"
+  },
+  "public/images/team-andrew-janian.png": {
+    "bytes": 5664914,
+    "sha256": "e32cae746a417bf1f42a2cd2e4da57351aabda75f44be1a81b82a81d3080d443"
+  },
+  "public/images/team-gerald-beeson.png": {
+    "bytes": 1019039,
+    "sha256": "8752ca94531f99ec35b5fe5b4d234fe2086ce9870c19156d250f2c41a76dc478"
+  },
+  "public/images/team-kenneth-griffin.png": {
+    "bytes": 164068,
+    "sha256": "24b857f197e2a6fa53f6a190eb563ad080a541cfc79c79be0a3fec39b354a1c9"
+  },
+  "public/images/team-larry-fink.png": {
+    "bytes": 3232466,
+    "sha256": "32d0ca581f748138d2b55840ee85bf32c75187f0d2f8ba6b7feb3f5eed11a70a"
+  },
+  "public/images/team-shawn-fagan.png": {
+    "bytes": 2724474,
+    "sha256": "006f4bff0e33aec91390da1465694ef36c1d4926253c169bf7fab40483e5dbde"
+  },
+  "public/images/team-tom-lee.png": {
+    "bytes": 2427028,
+    "sha256": "605c2cd31e7d5118f93e4132ec1099c4ee208217b199a5aeac90ee30bb490034"
+  },
+  "public/index.html": {
+    "bytes": 81601,
+    "sha256": "0fa679b86fdeb28878baf2301c40dedff51099dc4c227ce67dea47b70fb8e7b5"
+  },
+  "public/partners.json": {
+    "bytes": 5285,
+    "sha256": "f8937b10decf2312350c7068be1d275e90b3691dad3a7605f066c691a4b2676c"
+  },
+  "public/profiles.json": {
+    "bytes": 9183,
+    "sha256": "38e0f89a5b55d4b944dc8c2a8737914733f0b747b809f68535f87bc638dcc985"
+  },
+  "reference/original-content.txt": {
+    "bytes": 9375,
+    "sha256": "6eaa4b92e34de1abbf3cc3904b7a61498bd8a8e2a635db02a43a6aefbedbf051"
+  },
+  "scripts/build.mjs": {
+    "bytes": 310,
+    "sha256": "4a6c37bfd1ceb43d8b03c1c5405554eb8ecc90946e5b941f4be012508394ce26"
+  },
+  "scripts/server.mjs": {
+    "bytes": 1100,
+    "sha256": "f03225e760dc3aa12ce5ed92b0071bae1746705199f5bf72efa1cecc81a92189"
+  }
+}
